@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Krishna Sawale 👋
 
-<!--
-**krishna237k/krishna237k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech E&TC Student  
+📊 Aspiring Data Analyst | Passionate about Data & Insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📈 Interested in Data Analysis, Machine Learning & Visualization  
+- 💻 Skilled in Python, SQL, and Power BI  
+- 🧠 Currently learning DSA and Advanced Analytics  
+- 🎯 Goal: Become a professional Data Analyst  
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Database:** MySQL  
+- **Visualization:** Power BI  
+- **Other:** Data Cleaning, EDA, Problem Solving  
+
+---
+
+## 📊 Projects
+
+### 🔹 Blinkit Sales Analysis
+- Performed **Exploratory Data Analysis (EDA)**  
+- Built **interactive Power BI Dashboard**  
+- Extracted key insights on sales & customer trends  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/krishna-sawale-4bb03332a/
+- 📧 Email: krishnasawale237@gmail.com  
+
+---
+
+⭐ *Turning Data into Meaningful Insights*
